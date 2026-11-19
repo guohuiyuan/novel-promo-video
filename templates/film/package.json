@@ -1,5 +1,7 @@
 {
   "name": "motion-film",
+  "description": "书评转推书视频的 Remotion 渲染模板：旧报纸铅字版式、逐帧动效、人物档案页。",
+  "license": "AGPL-3.0-only",
   "private": true,
   "scripts": {
     "score": "node scripts/score.mjs",

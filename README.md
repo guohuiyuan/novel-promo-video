@@ -96,4 +96,4 @@ examples/                script.json / book.json 示例
 
 ## License
 
-MIT
+[AGPL-3.0](LICENSE) — GNU Affero General Public License v3.0
