@@ -8,7 +8,9 @@
 
 ## 产出示例
 
-《都市良人行》推书视频：12 分 21 秒，36 条配音（旁白 + 男主 + 11 位女主），旧报纸铅字版式，全片白色硬字幕。
+[![《都市良人行》推书视频](examples/promo-dushi-liangren.jpg)](https://www.bilibili.com/video/BV1ALs465E2Y/)
+
+**[《都市良人行》推书视频（B 站，点击观看）](https://www.bilibili.com/video/BV1ALs465E2Y/)** — 12 分 21 秒，36 条配音（旁白 + 男主 + 11 位女主），旧报纸铅字版式，全片白色硬字幕。
 
 ```
 书讯 → 简介快剪 → 排雷 → 男主（同女主页版式）→ 女主 ×11（一人一页）→ 收尾
@@ -84,7 +86,7 @@ scripts/
   bgm.py                 go-music-dl 搜曲/下载
   cover.py               数据驱动的 16:9 / 4:3 封面
 templates/film/          Remotion 工程模板（7 个场景 + 版式套件 + 类型化 data.ts）
-examples/                script.json / book.json 示例
+examples/                script.json / book.json 示例 + promo-dushi-liangren.jpg（成片封面）
 ```
 
 ## 设计原则
